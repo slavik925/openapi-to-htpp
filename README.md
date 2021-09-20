@@ -5,4 +5,4 @@ This set of http files then could be used with VSCode Rest extension for testing
 
 ```
 node .\index.js --file ./open_api_spec.json --out schema
-``
+```
