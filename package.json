@@ -1,0 +1,14 @@
+{
+  "name": "openapi-to-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Viacheslav Horodovych",
+  "license": "MIT License",
+  "dependencies": {
+    "@apidevtools/swagger-parser": "^10.0.3",
+    "fs-extra": "^10.0.0",
+    "minimist": "^1.2.5",
+    "sanitize-filename": "^1.6.3"
+  }
+}
